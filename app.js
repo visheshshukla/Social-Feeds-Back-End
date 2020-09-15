@@ -32,7 +32,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
-  .connect(process.env.MONGO)
+  .connect(processe.env.MONGO)
   .then(result => {
     app.listen(8080);
   })
