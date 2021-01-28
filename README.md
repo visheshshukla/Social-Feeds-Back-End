@@ -2,4 +2,4 @@
 
 **Back-End For Social Feeds (Node API Project).**
 
-**Project In Progress and will be updated soon.**
+**Project In Progress.**
